@@ -3,6 +3,7 @@ import os
 from datetime import datetime
 from pathlib import Path
 
+from telegram.error import TimedOut
 from telegram import Update
 from telegram.ext import (
     Application,
@@ -84,6 +85,10 @@ async def stats(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
                 filename="bot_runs.txt",
                 caption="📊 Статистика запусков бота",
             )
+    except TimedOut:
+        logger.warning("Таймаут при отправке файла статистики")
+    except Exception as e:
+        logger.error(f"Ошибка при отправке файла: {e}")
     except Exception as e:
         logger.error(f"Ошибка при отправке файла: {e}")
         await update.message.reply_text(
@@ -96,7 +101,14 @@ def main() -> None:
     if not token:
         raise SystemExit("Установите переменную окружения TELEGRAM_BOT_TOKEN")
 
-    application = Application.builder().token(token).build()
+    application = (
+        Application.builder()
+        .token(token)
+        .connect_timeout(30.0)
+        .read_timeout(30.0)
+        .write_timeout(30.0)
+        .build()
+    )
 
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("stats", stats))
