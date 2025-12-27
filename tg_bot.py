@@ -3,6 +3,7 @@ import os
 from datetime import datetime
 from pathlib import Path
 
+from dotenv import load_dotenv
 from telegram.error import TimedOut
 from telegram import Update
 from telegram.ext import (
@@ -15,6 +16,7 @@ from telegram.ext import (
 
 from menu_text import MENU_TEXT
 
+load_dotenv()
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
