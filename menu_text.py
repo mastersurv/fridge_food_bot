@@ -9,48 +9,28 @@ MENU_TEXT = """
 
 <b>🐟 1. Сэндвич с тунцом </b>
 
-Цена: 230 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/AD10006GNREC63QE9DKA7TAGBBAI9M1E?type=02&bank=100000000004&sum=23000&cur=RUB&crc=2860">Ссылка на оплату</a>
+Цена: 259 ₽
+👉 Оплатить: <a href="https://qr.nspk.ru/BD10007SBOBL1SB099PP170ILODD033I?type=02&bank=100000000004&sum=25900&cur=RUB&crc=0EF8">Ссылка на оплату</a>
 
-<b>🍳 2. Сэндвич с яйцом</b>
+<b>🍳 2. Сэндвич с копченой курицей</b>
 
 Цена: 259 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD10004JR778ITM1804AGI68GNRUCN1P?type=02&bank=100000000004&sum=25900&cur=RUB&crc=3DEC">Ссылка на оплату</a>
+👉 Оплатить: <a href="https://qr.nspk.ru/BD10007SBOBL1SB099PP170ILODD033I?type=02&bank=100000000004&sum=25900&cur=RUB&crc=0EF8">Ссылка на оплату</a>
 
-<b>🐔 3. Онигири с курицей</b>
+<b>🐔 3. Сэндвич с творожным сыром</b>
 
-Цена: 165 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD100028AO5MQ5CI9PIP096HDV46QKU7?type=02&bank=100000000004&sum=16500&cur=RUB&crc=2315">Ссылка на оплату</a>
+Цена: 259 ₽
+👉 Оплатить: <a href="https://qr.nspk.ru/BD10007SBOBL1SB099PP170ILODD033I?type=02&bank=100000000004&sum=25900&cur=RUB&crc=0EF8">Ссылка на оплату</a>
 
-<b>🦐 4. Онигири с креветкой</b>
-
-Цена: 165 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD100028AO5MQ5CI9PIP096HDV46QKU7?type=02&bank=100000000004&sum=16500&cur=RUB&crc=2315">Ссылка на оплату</a>
-
-<b>🐔 5. Плов с курицей</b>
-
-Цена: 321 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD100073NNBKFVUA837BMTMNA7RMBF94?type=02&bank=100000000004&sum=32100&cur=RUB&crc=111B">Ссылка на оплату</a>
-
-<b>🐷 6. Вок со свининой</b>
-
-Цена: 321 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD10004FQJ88BR888UJQUTV5L8O90UD0?type=02&bank=100000000004&sum=32100&cur=RUB&crc=E873">Ссылка на оплату</a>
-
-<b>🍴 7. Салат "столичный" </b>
-
-Цена: 235 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD10003S74HBBDQK8C59PUPU3P37V6K2?type=02&bank=100000000004&sum=23500&cur=RUB&crc=17D3">Ссылка на оплату</a>
-
-<b>🐟 8. Салат "сельдь под шубой" </b>
-
-Цена: 211 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/AD100028AEAGND958DRPG08JSC4G362G?type=02&bank=100000000004&sum=21100&cur=RUB&crc=7301">Ссылка на оплату</a>
-
-<b>🫜 9. Салат "винегрет" </b>
+<b>🦐 4. Салат с ветчиной</b>
 
 Цена: 229 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/AD10005P8I7GM4LG870BJUQE4MB03GI9?type=02&bank=100000000004&sum=22900&cur=RUB&crc=DEC4">Ссылка на оплату</a>
+👉 Оплатить: <a href="https://qr.nspk.ru/AD10007O26U1OKMU8PAPN1J86M6VBV8G?type=02&bank=100000000004&sum=22900&cur=RUB&crc=2542">Ссылка на оплату</a>
+
+<b>🐔 5. Котлеты из индейки с гречкой</b>
+
+Цена: 329 ₽
+👉 Оплатить: <a href="https://qr.nspk.ru/BD100059BE6Q6HO79TAO662OQ33TN3LC?type=02&bank=100000000004&sum=32900&cur=RUB&crc=6F60">Ссылка на оплату</a>
 
 <b>🔓 Как получить блюдо</b>
 1️⃣ Выбери блюдо и нажми на ссылку оплаты.
