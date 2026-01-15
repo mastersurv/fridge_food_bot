@@ -7,30 +7,35 @@ MENU_TEXT = """
 
 <b>Номера позиций соответствуют номеру на полке 😊</b>
 
-<b>🐟 1. Сэндвич с тунцом </b>
+<b>1. Сэндвич с индейкой</b>
 
-Цена: 259 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD10007SBOBL1SB099PP170ILODD033I?type=02&bank=100000000004&sum=25900&cur=RUB&crc=0EF8">Ссылка на оплату</a>
+Цена: 250 ₽
+👉 Оплатить: <a href="https://qr.nspk.ru/AD10001JK2788SUD8SGQQ1QM424NFUEQ?type=02&bank=100000000004&sum=25000&cur=RUB&crc=ED6D">Ссылка на оплату</a>
 
-<b>🍳 2. Сэндвич с копченой курицей</b>
+<b>2. Сэндвич с курицей</b>
 
-Цена: 259 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD10007SBOBL1SB099PP170ILODD033I?type=02&bank=100000000004&sum=25900&cur=RUB&crc=0EF8">Ссылка на оплату</a>
+Цена: 250 ₽
+👉 Оплатить: <a href="https://qr.nspk.ru/AD10001JK2788SUD8SGQQ1QM424NFUEQ?type=02&bank=100000000004&sum=25000&cur=RUB&crc=ED6D">Ссылка на оплату</a>
 
-<b>🐔 3. Сэндвич с творожным сыром</b>
+<b>3. Блинчики с ветчиной</b>
 
-Цена: 259 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD10007SBOBL1SB099PP170ILODD033I?type=02&bank=100000000004&sum=25900&cur=RUB&crc=0EF8">Ссылка на оплату</a>
+Цена: 200 ₽
+👉 Оплатить: <a href="https://qr.nspk.ru/AD10004K5N1VP6VF8I6O2GPI0QKRBRHU?type=02&bank=100000000004&sum=20000&cur=RUB&crc=5A5E">Ссылка на оплату</a>
 
-<b>🦐 4. Салат с ветчиной</b>
+<b>4. Блинчики с вишней</b>
 
-Цена: 229 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/AD10007O26U1OKMU8PAPN1J86M6VBV8G?type=02&bank=100000000004&sum=22900&cur=RUB&crc=2542">Ссылка на оплату</a>
+Цена: 200 ₽
+👉 Оплатить: <a href="https://qr.nspk.ru/AD10004K5N1VP6VF8I6O2GPI0QKRBRHU?type=02&bank=100000000004&sum=20000&cur=RUB&crc=5A5E">Ссылка на оплату</a>
 
-<b>🐔 5. Котлеты из индейки с гречкой</b>
+<b>5. Ролл</b>
 
-Цена: 329 ₽
-👉 Оплатить: <a href="https://qr.nspk.ru/BD100059BE6Q6HO79TAO662OQ33TN3LC?type=02&bank=100000000004&sum=32900&cur=RUB&crc=6F60">Ссылка на оплату</a>
+Цена: 230 ₽
+👉 Оплатить: <a href="https://qr.nspk.ru/AD100053PODNQMKR9SNBU6JQUPBMDD92?type=02&bank=100000000004&sum=23000&cur=RUB&crc=81E8">Ссылка на оплату</a>
+
+<b>6. Онигири</b>
+
+Цена: 230 ₽
+👉 Оплатить: <a href="https://qr.nspk.ru/AD10004HG7I4L4G68GQ9SR4H4QQHBPV6?type=02&bank=100000000004&sum=17000&cur=RUB&crc=CFD1">Ссылка на оплату</a>
 
 <b>🔓 Как получить блюдо</b>
 1️⃣ Выбери блюдо и нажми на ссылку оплаты.
